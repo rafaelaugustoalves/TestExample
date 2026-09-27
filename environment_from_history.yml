@@ -1,0 +1,7 @@
+name: test_example
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pytest-regressions
+  - numpy
