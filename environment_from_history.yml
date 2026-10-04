@@ -1,10 +1,10 @@
 name: test_example
 channels:
   - defaults
-  - conda-forge
 dependencies:
   - python=3.11
   - pytest-regressions
   - numpy
   - matplotlib
   - scipy
+  - pybind11
